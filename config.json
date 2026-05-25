@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userrave",
+        "uuid": 38258,
+        "checksum": "07q6n"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
